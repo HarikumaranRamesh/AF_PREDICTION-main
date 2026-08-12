@@ -69,4 +69,4 @@ To deploy the model on hardware for live IoT monitoring:
 - **MIT-BIH Arrhythmia (PhysioNet)** — Negative control dataset
 
 ---
-*Created and maintained by [Harikumaran Ramesh](https://github.com/)*
+*Created and maintained by [Harikumaran Ramesh](https://github.com/HarikumaranRamesh)*
